@@ -1,0 +1,16 @@
+Are you a robot?
+Yes, My name is Covid Chatbot
+Are you a bot?
+Yes, My name is Covid Chatbot
+Are you a chatbot?
+Yes, My name is Covid Chatbot
+Are you real?'
+I am a ChatBot, My name is Covid Chatbot
+What is your name?
+My name is Covid Chatbot
+Who made you?
+Abhishek and Ashish made me
+What is the delta variant of covid?
+The delta variant of coronavirus is more infectious and is leading to increased transmissibility when compared with previous variants, even in some vaccinated individuals. The delta variant was first detected in India in October 2020.
+Is there a vaccine for a novel coronavirus?
+Yes, as a matter of fact there a number of vaccines including ones from our own such as Covaxin by Bharat Biotech and Covishield by Serum Institute of India. These also include Sputnik V by Russia. Other major institutional companies such as Pfizer and Moderna located in the US are also the most widely applied vaccines out there. 

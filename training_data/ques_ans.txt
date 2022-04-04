@@ -1,0 +1,27 @@
+What is a coronavirus?
+Coronaviruses are a large family of viruses that are known to cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS).
+What is a novel coronavirus?
+A novel coronavirus (CoV) is a new strain of coronavirus that has not been previously identified in humans.
+Can humans become infected with a novel coronavirus of animal source?
+Detailed investigations found that SARS-CoV was transmitted from civet cats to humans in China in 2002 and MERS-CoV from dromedary camels to humans in Saudi Arabia in 2012. Several known coronaviruses are circulating in animals that have not yet infected humans. As surveillance improves around the world, more coronaviruses are likely to be identified.
+What are the symptoms of someone infected with a coronavirus?
+It depends on the virus, but common signs include respiratory symptoms, fever, cough, shortness of breath, and breathing difficulties. Fever, cough, loss of smell, loss of taste are symptoms found in mild infections of the coronavirus. In more severe cases, infection can cause pneumonia, severe acute respiratory syndrome, kidney failure and even death. Asymptomatic cases of coronavirus are found too.
+Can coronaviruses be transmitted from person to person?
+Yes, some coronaviruses can be transmitted from person to person, usually after close contact with an infected patient, for example, in a household workplace, or health care centre.
+Is there a vaccine for a novel coronavirus?
+Yes, as a matter of fact there a number of vaccines including ones from our own such as Covaxin by Bharat Biotech and Covishield by Serum Institute of India. These also include Sputnik V by Russia. Other major institutional companies such as Pfizer and Moderna located in the US are also the most widely applied vaccines out there. 
+Is there a treatment for a novel coronavirus?
+There is no specific treatment for disease caused by a novel coronavirus. However, many of the symptoms can be treated and therefore treatment based on the patient's clinical condition. Moreover, supportive care for infected persons can be highly effective.
+What can I do to protect myself?
+Standard recommendations to reduce exposure to and transmission of a range of illnesses include maintaining basic hand and respiratory hygiene, avoiding close contact when possible with anyone.
+Are health workers at risk from a novel coronavirus?
+Yes, they can be, as health care workers come into contact with patients more often than the general public. The general public should be more appreciative of the work and risk they are bearing to make us feel safe.
+What are the WHO recommendations for countries?
+WHO encourages all countries to enhance their surveillance for severe acute respiratory infections (SARI), to carefully review any unusual patterns of SARI or pneumonia cases and to notify WHO of any suspected or confirmed case of infection with novel coronavirus.
+Countries are encouraged to continue strengthening their preparedness for health emergencies in line with the International Health Regulations (2005).
+Where can I find more information about known coronaviruses?
+For more information on MERS-CoV <a href="http://www.emro.who.int/health-topics/mers-cov/index.html">here</a>, For More information on SARS-CoV <a href="https://www.who.int/csr/sars/en/">here</a>. Also regarding the pandemic;'s condition in India you can visit https://mohfw.gov.in
+What is the delta variant of covid?
+The delta variant of coronavirus is more infectious and is leading to increased transmissibility when compared with previous variants, even in some vaccinated individuals. The delta variant was first detected in India in October 2020.
+What is the omicron variant of covid?
+Reported from South Africa in November 2021, it is the newest variant of covid and acoording to WHO it is a variant of concern. Since it is been determined by world organizations to study effects of this strain, it's transmissibility and effects remain unknown.
